@@ -30,9 +30,9 @@ Currently expanding into **Google Cloud Platform** and **AI Agent development**.
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Projects
 
-### 🍷 [Wine Cellar Management Database](https://github.com/TUUSERNAME/wine-cellar-db)
+### 🍷 [Wine Cellar Management Database](https://github.com/iljupeji/wine-cellar-db)
 > PostgreSQL · SQLAlchemy ORM · Python · python-dotenv
 
 Normalized 7-entity relational schema for a full inventory management system built during a hackathon and extended as a personal project.
@@ -42,6 +42,17 @@ Normalized 7-entity relational schema for a full inventory management system bui
 - Audit trail via `Movements` table · UTC-aware timestamps
 - Zero hardcoded credentials via `python-dotenv`
 - `Numeric` type for monetary precision (no `Float`)
+
+---
+
+### 🤖 [AI Career Workflow](https://github.com/iljupeji/AI-Career-Workflow)
+> Python · Generative AI · Automation
+
+AI-assisted workflow to automate and optimize the job search process — from vacancy analysis to tailored CV generation and application tracking.
+
+- AI-powered vacancy matching and ATS-friendly CV generation
+- Structured tracking of applications, skills gaps, and study topics
+- Built with prompt engineering and LLM integration
 
 ---
 
