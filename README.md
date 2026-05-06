@@ -2,7 +2,7 @@
 
 **Robotics Engineer → Data & AI** · Ciudad de México 🇲🇽  
 Industrial Robotics background (IPN) with a strong focus on data engineering, AI agents, and operational automation.  
-Currently expanding into **Google Cloud Platform** and **AI Agent development**.
+Currently expanding into **Google Cloud Platform**, **AI Agent development** & **Cibersecurity**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ilse%20Jiménez-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilse-jim%C3%A9nez-363ab61ab/)
 
